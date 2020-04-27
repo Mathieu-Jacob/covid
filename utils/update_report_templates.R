@@ -52,7 +52,7 @@ countries <- countries %>%
 
 
 ## Countries with regional breakdowns
-regional_breakdowns <- c("Italy", "United Kingdom", "United States of America", "Germany")
+regional_breakdowns <- c("United States of America", "Canada")
 
 
 countries <- countries %>%

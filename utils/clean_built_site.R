@@ -16,7 +16,7 @@ remove_folders <- list.dirs("_posts/national", recursive = FALSE) %>%
   stringr::str_remove("_posts/national/")
 
 ## Countries with regional breakdowns
-regional_breakdowns <- c("italy", "united-kingdom", "united-states", "germany")
+regional_breakdowns <- c("united-states", "canada")
 
 ## Drop these countries
 remove_folders <- setdiff(remove_folders, regional_breakdowns)
