@@ -33,12 +33,8 @@ navbar:
     - text: "Subnational"
       menu:
        - text: "Countries with subnational estimates"
-       - text: "Italy"
-         href: posts/national/italy/index.html
-       - text: "Germany"
-         href: posts/national/germany/index.html
-       - text: "United Kingdom"
-         href: posts/national/united-kingdom/index.html
+       - text: "Canada"
+         href: posts/national/canada/index.html
        - text: "United States of America"
          href: posts/national/united-states/index.html
     - text: "Details"

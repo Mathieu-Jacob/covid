@@ -4,48 +4,106 @@
     "title": "Global summary",
     "description": "Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting both nationally and subnationally. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively (see Methods for further explanation).",
     "author": [],
-    "date": "2020-04-24",
+    "date": "2020-04-27",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-04-27T13:07:03-04:00"
+    "last_modified": "2020-04-27T15:02:46-04:00"
   },
   {
-    "path": "posts/national/germany/",
-    "title": "National and Subnational estimates for Germany",
-    "description": "Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting both nationally and subnationally in Germany. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively (see Methods for further explanation).",
+    "path": "posts/national/canada/",
+    "title": "Estimates for Canada",
+    "description": "Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Canada. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively (see Methods for further explanation).",
     "author": [],
-    "date": "2020-04-24",
+    "date": "2020-04-27",
     "categories": [
-      "Subnational estimates",
+      ""
+    ],
+    "preview": {},
+    "last_modified": "2020-04-27T15:03:05-04:00"
+  },
+  {
+    "path": "posts/national/china/",
+    "title": "Estimates for China",
+    "description": "Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in China. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively (see Methods for further explanation).",
+    "author": [],
+    "date": "2020-04-27",
+    "categories": [
+      "Asia"
+    ],
+    "preview": {},
+    "last_modified": "2020-04-27T14:51:01-04:00"
+  },
+  {
+    "path": "posts/national/italy/",
+    "title": "Estimates for Italy",
+    "description": "Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Italy. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively (see Methods for further explanation).",
+    "author": [],
+    "date": "2020-04-27",
+    "categories": [
       "Europe"
     ],
     "preview": {},
-    "last_modified": "2020-04-27T13:07:04-04:00"
+    "last_modified": "2020-04-27T14:51:44-04:00"
   },
   {
-    "path": "posts/national/united-kingdom/",
-    "title": "National and Subnational estimates for the United Kingdom",
-    "description": "Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting both nationally and subnationally in the United Kingdom. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively (see Methods for further explanation).",
+    "path": "posts/national/portugal/",
+    "title": "Estimates for Portugal",
+    "description": "Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Portugal. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively (see Methods for further explanation).",
     "author": [],
-    "date": "2020-04-24",
+    "date": "2020-04-27",
     "categories": [
-      "Subnational estimates",
       "Europe"
     ],
     "preview": {},
-    "last_modified": "2020-04-27T13:07:05-04:00"
+    "last_modified": "2020-04-27T14:51:01-04:00"
+  },
+  {
+    "path": "posts/national/singapore/",
+    "title": "Estimates for Singapore",
+    "description": "Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Singapore. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively (see Methods for further explanation).",
+    "author": [],
+    "date": "2020-04-27",
+    "categories": [
+      "Asia"
+    ],
+    "preview": {},
+    "last_modified": "2020-04-27T14:51:44-04:00"
+  },
+  {
+    "path": "posts/national/south-korea/",
+    "title": "Estimates for South Korea",
+    "description": "Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in South Korea. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively (see Methods for further explanation).",
+    "author": [],
+    "date": "2020-04-27",
+    "categories": [
+      "Asia"
+    ],
+    "preview": {},
+    "last_modified": "2020-04-27T14:52:17-04:00"
+  },
+  {
+    "path": "posts/national/switzerland/",
+    "title": "Estimates for Switzerland",
+    "description": "Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Switzerland. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively (see Methods for further explanation).",
+    "author": [],
+    "date": "2020-04-27",
+    "categories": [
+      "Europe"
+    ],
+    "preview": {},
+    "last_modified": "2020-04-27T14:51:01-04:00"
   },
   {
     "path": "posts/national/united-states/",
     "title": "National and Subnational estimates for the United States of America",
     "description": "Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting both nationally and subnationally in the United States of America. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively (see Methods for further explanation).",
     "author": [],
-    "date": "2020-04-24",
+    "date": "2020-04-27",
     "categories": [
       "Subnational estimates",
       "Americas"
     ],
     "preview": {},
-    "last_modified": "2020-04-27T13:07:06-04:00"
+    "last_modified": "2020-04-27T14:52:36-04:00"
   }
 ]
